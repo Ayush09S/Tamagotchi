@@ -42,3 +42,5 @@ A small digital pet as a physical device remake! It features an LDR that can det
 Highlighted are the Spacers and Battery Lid
 <img width="1264" height="1160" alt="Screenshot 2026-06-19 at 8 47 18 pm" src="https://github.com/user-attachments/assets/79c287a8-be6f-4163-905e-394254ccc065" />
 <img width="941" height="1222" alt="Screenshot 2026-06-19 at 8 48 20 pm" src="https://github.com/user-attachments/assets/6727740d-09f6-40ca-9e7e-35a89f005d89" />
+
+# BOM
