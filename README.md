@@ -1,6 +1,7 @@
+
 # Overview
 ## Context
-A small digital pet as a physical device remake! It features an LDR that can detect light changes, four buttons, and a buzzer. It also has an OLED display and can be recharged.! It was created as time to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB.
+A small digital pet as a physical device remake! It features an LDR that can detect light changes, four buttons, and a buzzer. It also has an OLED display and can be recharged.! It was created as time to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. It can also be used with both smaller LiPo batteries and medium sized ones too!
 
 # How To Create
 1. Create the PCB
@@ -8,8 +9,8 @@ A small digital pet as a physical device remake! It features an LDR that can det
      OR
    - Buy the PCB from JLCPCB
 
-2. Create the Casing
-   - Print the Casing with the 3D Files provided on a 3D Printer
+2. Print the models
+   - Print the Casing, spacers and battery holder lid with the 3D Files provided on a 3D Printer
      OR
    - Buy the Casing printed from a printing service
 
@@ -23,5 +24,8 @@ A small digital pet as a physical device remake! It features an LDR that can det
 6. Done! Use the Tamagotchi as much as your heart desires!
 
 # PCB
-<img width="1081" height="628" alt="image" src="https://github.com/user-attachments/assets/eaabee22-2486-4760-87af-e81cc4d74397" />
-<img width="793" height="1057" alt="Screenshot 2026-06-14 at 9 04 22 pm" src="https://github.com/user-attachments/assets/548ba12b-f1d1-4d6b-b94b-7bbff359f13e" />
+<img width="1040" height="1203" alt="Screenshot 2026-06-19 at 8 14 45 pm" src="https://github.com/user-attachments/assets/5b64951e-aefc-4f24-94ef-dfff0b99fb40" />
+<img width="788" height="993" alt="Screenshot 2026-06-19 at 8 13 54 pm" src="https://github.com/user-attachments/assets/381671d6-df88-414c-a809-96827ae18a5c" />
+
+# Casing
+<img width="957" height="995" alt="Screenshot 2026-06-19 at 8 17 03 pm" src="https://github.com/user-attachments/assets/0db4530b-7fc7-4370-b897-0cdf6ea0c191" />
