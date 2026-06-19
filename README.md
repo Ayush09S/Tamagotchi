@@ -58,3 +58,8 @@ Highlighted are the Spacers and Battery Lid
 | 5.5 | Latching Button | SW-TH_TK-6580A-1 | C528770 | 1 | $0.23 | $0.23 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/Yuandi-TK_6580A1/C528770) |
 | 5.6 | OLED Screen | OLED-TH_L27.8-W27.2-P2.54_C9900033791 | C5248080 | 1 | $2.27 | $2.27 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/HS-HS96L03W2C03/C5248080) |
 | 5.7 | Microcontroller | XIAO-ESP32-C3-DIP-SMD | | 1 | $6.55 | $6.55 | $1,129.87 | [Seeed Studio Link](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
+
+# Additional Notes!
+This was a Guided Project through Hack Club's Fallout's Docs. I really loved making it, and I really learnt a lot, just like with the USB Hub. If you are a beginner, I would suggest starting with a smaller project, but this project is INCREDIBLE as a second one!
+
+Sanity Checked by Kade Harrison
