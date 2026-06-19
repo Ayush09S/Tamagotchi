@@ -2,6 +2,12 @@
 ## Context
 A small digital pet as a physical device remake! It features an LDR that can detect light changes, four buttons, and a buzzer. It also has an OLED display and can be recharged.! It was created as an entry to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. It can also be used with both smaller LiPo batteries and medium sized ones too!
 
+# Specs
+- Light Dependent Resistor
+- 4 Push Buttons
+- Latching Power Switch
+- OLED screen
+
 # How To Create
 1. Create the PCB
   - Either cut the PCB (with the Gerber file) and solder bought components needed (found in the BOM)
