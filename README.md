@@ -31,6 +31,7 @@ A small digital pet as a physical device remake! It features an LDR that can det
 <img width="1531" height="1049" alt="Screenshot 2026-06-19 at 8 36 59 pm" src="https://github.com/user-attachments/assets/c319da14-c750-45f8-966b-430dcc960938" />
 
 # Casing
+[Onshape Link](https://cad.onshape.com/documents/55ba759bd32af63245a8fd64/w/ad6807c79dc1dfbda1b36efa/e/c03fca18856a8a03d68f317d?renderMode=0&uiState=6a353a8e2eaad570a6abcbcb)
 ## Full
 <img width="957" height="995" alt="Screenshot 2026-06-19 at 8 17 03 pm" src="https://github.com/user-attachments/assets/0db4530b-7fc7-4370-b897-0cdf6ea0c191" />
 
