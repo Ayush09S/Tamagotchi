@@ -29,8 +29,8 @@ A small digital pet as a physical device remake! It features an LDR that can det
 
 # PCB
 ## Board
-<img width="1040" height="1203" alt="Screenshot 2026-06-19 at 8 14 45 pm" src="https://github.com/user-attachments/assets/5b64951e-aefc-4f24-94ef-dfff0b99fb40" />
-<img width="788" height="993" alt="Screenshot 2026-06-19 at 8 13 54 pm" src="https://github.com/user-attachments/assets/381671d6-df88-414c-a809-96827ae18a5c" />
+<img width="992" height="1226" alt="Screenshot 2026-06-20 at 6 42 23 pm" src="https://github.com/user-attachments/assets/775d8cd5-e370-4427-8854-f3a2328bec93" />
+<img width="941" height="1160" alt="Screenshot 2026-06-20 at 6 43 25 pm" src="https://github.com/user-attachments/assets/13bb5763-25d0-42aa-bde6-300d23c9eaa3" />
 
 ## Schematic
 <img width="1531" height="1049" alt="Screenshot 2026-06-19 at 8 36 59 pm" src="https://github.com/user-attachments/assets/c319da14-c750-45f8-966b-430dcc960938" />
