@@ -1,6 +1,8 @@
 # Overview
+A small digital pet as a physical device remake! It features four buttons and a buzzer. It also has an OLED display and can be recharged! The coding is made so that it can show it's emotions based on how it's treated. Whether it's not played with, not given sleep, it'll react. Make sure to keep it entertained! It also can be powered off into deep sleep in case you are busy and need to temporarily turn it off.
+
 ## Context
-A small digital pet as a physical device remake! It features four buttons and a buzzer. It also has an OLED display and can be recharged! The coding is made so that it can show it's emotions based on how it's treated. Whether it's not played with, It was created as an entry to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. It can also be used with both smaller LiPo batteries and medium sized ones too!
+It was created as an entry to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. It can also be used with both smaller LiPo batteries and medium sized ones too!
 
 ## Zine
 <img width="539" height="827" alt="Tamagotchi Zine" src="https://github.com/user-attachments/assets/9c71413b-636d-4bb1-a0b6-0be46c33ab1f" />
@@ -17,7 +19,7 @@ A small digital pet as a physical device remake! It features four buttons and a 
   - Buy the PCB from JLCPCB
 
 2. Print the models
-  - Print the Casing, spacers and battery holder lid with the 3D Files provided on a 3D Printer
+  - Print the Casing, spacers and battery holder lid with the 3D Files provided on a 3D Printer (Note, the casing top, casing bottom, spacers and battery holder lid should all be printed seperately)
     OR
   - Buy the Casing printed from a printing service
 
@@ -25,8 +27,28 @@ A small digital pet as a physical device remake! It features four buttons and a 
   - Put a bought or owned LiPo Battery and connect it to the bottom of the pcb, and place it into the allocated space in the casing
   - Use M3 Screws (buy or use owned ones) to screw the casing and PCB together
 
-5. Program the PCB.
-  - Connect to the Tamagotchi's USB-C connector through a computer and apply the CircuitPython program provided
+5. Program the PCB. (Sourced from [Tamagotchi Firmware Tutorial](https://fallout.hackclub.com/docs/guided-projects/tamagotchi-firmware#step-1-install-the-esp32-board-package))
+  - Connect to the Tamagotchi's USB-C connector through a computer and apply the program provided through the Arduino IDE.
+  - Make sure to downlooad to follow the steps below to get the correct libraries.
+    
+  - Open the Arduino IDE.
+  - Go to File > Preferences (or Arduino IDE > Settings on macOS).
+  - In the "Additional Boards Manager URLs" field, add the following URL: https://espressif.github.io/arduino-esp32/package_esp32_index.json > Note: If you already have URLs here, separate entries with commas.
+  - Click OK to save the preferences.
+  - Wait for the board index to download.
+
+  - Open the Boards Manager by navigating to Tools > Board > Boards Manager.
+  - In the search bar, type esp32.
+  - Locate the entry for "esp32 by Espressif Systems".
+  - Click the Install button. > Important: Ensure you are using version 3.0.0 or later, which supports the C6.
+  - Wait for the installation to finish.
+
+  - After installation, go to Tools > Board > esp32.
+  - Select your board model: XIAO ESP32C6.
+
+  - In Sketch > Include Library > Manage Libraries, install:
+  -   Adafruit SSD1306 (by Adafruit)
+  -   Adafruit GFX Library (by Adafruit), which will be prompted as a dependency.
 
 6. Done! Use the Tamagotchi as much as your heart desires!
 
@@ -41,16 +63,16 @@ A small digital pet as a physical device remake! It features four buttons and a 
 # Casing
 [Onshape Link](https://cad.onshape.com/documents/55ba759bd32af63245a8fd64/w/ad6807c79dc1dfbda1b36efa/e/c03fca18856a8a03d68f317d?renderMode=0&uiState=6a353a8e2eaad570a6abcbcb)
 ## Full
-<img width="957" height="995" alt="Screenshot 2026-06-19 at 8 17 03 pm" src="https://github.com/user-attachments/assets/0db4530b-7fc7-4370-b897-0cdf6ea0c191" />
+<img width="1105" height="765" alt="Screenshot 2026-06-20 at 7 03 44 pm" src="https://github.com/user-attachments/assets/ddc17138-f293-49e2-90bf-794101717508" />
 
 ## Top
-<img width="1112" height="1198" alt="Screenshot 2026-06-19 at 8 54 00 pm" src="https://github.com/user-attachments/assets/fb5eaeba-8fed-4cf2-b923-1efe1139b76b" />
-<img width="923" height="1214" alt="Screenshot 2026-06-19 at 8 54 18 pm" src="https://github.com/user-attachments/assets/87f51dff-354d-47f3-b447-c3477faf9039" />
+<img width="967" height="1217" alt="Screenshot 2026-06-20 at 7 04 31 pm" src="https://github.com/user-attachments/assets/ff1ba11f-360e-4063-bfb4-979290eb97a5" />
+<img width="1083" height="752" alt="Screenshot 2026-06-20 at 7 04 55 pm" src="https://github.com/user-attachments/assets/b732286e-0752-4d1d-9a49-c8fb36160cc3" />
 
 ## Bottom
-Highlighted are the Spacers and Battery Lid
-<img width="1264" height="1160" alt="Screenshot 2026-06-19 at 8 47 18 pm" src="https://github.com/user-attachments/assets/79c287a8-be6f-4163-905e-394254ccc065" />
-<img width="941" height="1222" alt="Screenshot 2026-06-19 at 8 48 20 pm" src="https://github.com/user-attachments/assets/6727740d-09f6-40ca-9e7e-35a89f005d89" />
+Highlighted or Orange are the Spacers and Battery Lid
+<img width="1081" height="719" alt="Screenshot 2026-06-20 at 7 05 16 pm" src="https://github.com/user-attachments/assets/fae6dcb4-76ef-400b-9542-716c5af9f3f1" />
+<img width="927" height="1215" alt="Screenshot 2026-06-20 at 7 05 47 pm" src="https://github.com/user-attachments/assets/d3633d40-2fbc-4f5b-988d-235549a8cb9a" />
 
 # BOM
 | No. | Item | Description | LCSC/JLCPCB Supplier Number | Qty | Unit Price | Total Price | Running Total | Link |
