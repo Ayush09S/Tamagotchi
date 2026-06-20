@@ -3,7 +3,6 @@
 A small digital pet as a physical device remake! It features an LDR that can detect light changes, four buttons, and a buzzer. It also has an OLED display and can be recharged.! It was created as an entry to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. It can also be used with both smaller LiPo batteries and medium sized ones too!
 
 # Specs
-- Light Dependent Resistor
 - 4 Push Buttons
 - Latching Power Switch
 - OLED screen
@@ -51,20 +50,20 @@ Highlighted are the Spacers and Battery Lid
 <img width="941" height="1222" alt="Screenshot 2026-06-19 at 8 48 20 pm" src="https://github.com/user-attachments/assets/6727740d-09f6-40ca-9e7e-35a89f005d89" />
 
 # BOM
-| No. | Item | Description | LCSC/JLCPCB Supplier Number (if applicable) | Qty | Unit Price | Total Price | Running Total | Link |
+| No. | Item | Description | LCSC/JLCPCB Supplier Number | Qty | Unit Price | Total Price | Running Total | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 3D Printer | Bambu X1C AVAILABLE AT SCHOOL | | 1 | $1,099.00 | $1,099.00 | $1,099.00 | [Mobile Citi Link](https://www.mobileciti.com.au/bambu-lab-x1-carbon-3d-printer-with-ams-refur-excellent?gclid=Cj0KCQjwoMXQBhDcARIsAH-eEtv6DcY8bJ5KFvRXVKA8ApDhx15VS-7CEkVGBmmQL9fcapztwOnEn9AaAqIYEALw_wcB&utm_medium=ppc&utm_campaign=00_Smart+Shopping+campaign&utm_term=&utm_source=adwords&hsa_src=x&hsa_acc=4638778441&hsa_mt=&hsa_grp=&hsa_ad=&hsa_tgt=&hsa_net=adwords&hsa_ver=3&hsa_cam=1578143160&hsa_kw=&gad_source=1&gad_campaignid=17417661961&gbraid=0AAAAAD-y5hW1onLIU-sxGjRVv_D7dO2qU) |
-| 2 | Screws | M3x30mm | | 10 | $0.13 | $1.33 | $1,100.33 | [Makerstore Link](https://www.makerstore.com.au/product/m3-button-head-screws-10-pack/?attribute_pa_length=30mm&gad_source=1&gad_campaignid=17182175902&gbraid=0AAAAADlKCoO41i4UW2q_vBL5fa-YCVeUE&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTq34nfkNcCYdwuQxhlO7KVYuQOjBWP2bP-eB9npmySPHkssN7rTvphoChtkQAvD_BwE) |
-| 3 | Nuts | M3 | | 4 | $0.14 | $0.56 | $1,100.89 | [Makerstore Link](https://www.makerstore.com.au/product/hard-m3nut-1/?gad_source=1&gad_campaignid=17182175902&gbraid=0AAAAADlKCoO41i4UW2q_vBL5fa-YCVeUE&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTrelUUspWVwynp_Yrg5-H1qjSB5JMoOdUoEGIBlk2bIIMUZF2I_HQxoCLH4QAvD_BwE) |
-| 4 | Battery | LiPo Rechargeable 1100mAh | | 1 | $5.39 | $5.39 | $1,106.28 | [Aliexpress Link](https://www.aliexpress.com/item/1005004824764461.html?src=google&src=google&albch=shopping&acnt=742-864-1166&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005004824764461&ds_e_product_merchant_id=101188790&ds_e_product_country=AU&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=21819463808&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=21819486122&gbraid=0AAAAA99aYpemWq6wRYbZ4iRr7fSZWOlsi&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTuU6XAWeZ3Sbwx140fsltYGE2tlytzKPM_RCD3M4D4ZwK8VsdYguBhoC5kYQAvD_BwE) |
-| 5 | PCB (with assembly) | Main board that connects components and holds main chip | | 1 | $23.59 | $23.59 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/) |
+| 1 | 3D Printer | Bambu X1C AVAILABLE AT SCHOOL | - | 1 | $1,099.00 | $1,099.00 | $1,099.00 | [Mobile Citi Link](https://www.mobileciti.com.au/bambu-lab-x1-carbon-3d-printer-with-ams-refur-excellent) |
+| 2 | Screws | M3x30mm | - | 10 | $0.13 | $1.33 | $1,100.33 | [Makerstore Link](https://www.makerstore.com.au/product/m3-button-head-screws-10-pack/) |
+| 3 | Nuts | M3 | - | 4 | $0.14 | $0.56 | $1,100.89 | [Makerstore Link](https://www.makerstore.com.au/product/hard-m3nut-1/) |
+| 4 | Battery | LiPo Rechargeable 1100mAh | - | 1 | $5.39 | $5.39 | $1,106.28 | [Aliexpress](https://www.aliexpress.com/item/1005004824764461.html) |
+| 5 | PCB (with assembly) | Main board that connects components and holds main chip | - | 1 | $23.59 | $23.59 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/) |
 | 5.1 | Buzzer | BUZ-TH_BD12.5-P6.50-D1.4 | C49246964 | 1 | $0.01 | $0.01 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/XHXDZ-1207_P65MM/C49246964) |
-| 5.2 | Photo Resistor | RES-TH_L5.1-W4.3-P3.40-D0.5 | GL5528 | 1 | $0.07 | $0.07 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/Senba_SensingTech-GL5528/C125627) |
-| 5.3 | 10kΩ Resistor | RES-TH_BD2.7-L6.2-P10.20-D0.4 | C2903232 | 1 | $0.01 | $0.01 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/VO-MF1_4W_10K_1_ST52/C2903232) |
-| 5.4 | Push Buttons | SW-TH_4P-L4.5-W4.5-P3.00-LS4.8 | C2888493 | 4 | $0.01 | $0.04 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/BZCN-TSC016A04518A/C2888493) |
-| 5.5 | Latching Button | SW-TH_TK-6580A-1 | C528770 | 1 | $0.23 | $0.23 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/Yuandi-TK_6580A1/C528770) |
-| 5.6 | OLED Screen | OLED-TH_L27.8-W27.2-P2.54_C9900033791 | C5248080 | 1 | $2.27 | $2.27 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/HS-HS96L03W2C03/C5248080) |
-| 5.7 | Microcontroller | XIAO-ESP32-C3-DIP-SMD | | 1 | $6.55 | $6.55 | $1,129.87 | [Seeed Studio Link](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
+| 5.2 | 10kΩ Resistor | RES-TH_BD2.7-L6.2-P10.20-D0.4 | C2903232 | 1 | $0.01 | $0.01 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/VO-MF1_4W_10K_1_ST52/C2903232) |
+| 5.3 | Push Buttons | SW-TH_4P-L4.5-W4.5-P3.00-LS4.8 | C2888493 | 4 | $0.01 | $0.04 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/BZCN-TSC016A04518A/C2888493) |
+| 5.4 | Latching Button | SW-TH_TK-6580A-1 | C528770 | 1 | $0.23 | $0.23 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/Yuandi-TK_6580A1/C528770) |
+| 5.5 | OLED Screen | OLED-TH_L27.8-W27.2-P2.54_C9900033791 | C5248080 | 1 | $2.27 | $2.27 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/HS-HS96L03W2C03/C5248080) |
+| 5.6 | Microcontroller | XIAO-ESP32-C3-DIP-SMD | - | 1 | $6.55 | $6.55 | $1,129.87 | [Seeed Studio Link](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
+| 5.7 | Additionals | - | - | - | - | $14.49 | $1,129.87 | - |
 
 # Additional Notes!
 This was a Guided Project through Hack Club's Fallout's Docs. I really loved making it, and I really learnt a lot, just like with the USB Hub. If you are a beginner, I would suggest starting with a smaller project, but this project is INCREDIBLE as a second one!
