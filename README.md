@@ -66,13 +66,13 @@ It was created as an entry to contribute to the Fallout Hackathon in Shenzhen ru
 <img width="1105" height="765" alt="Screenshot 2026-06-20 at 7 03 44 pm" src="https://github.com/user-attachments/assets/ddc17138-f293-49e2-90bf-794101717508" />
 
 ## Top
-<img width="967" height="1217" alt="Screenshot 2026-06-20 at 7 04 31 pm" src="https://github.com/user-attachments/assets/ff1ba11f-360e-4063-bfb4-979290eb97a5" />
-<img width="1083" height="752" alt="Screenshot 2026-06-20 at 7 04 55 pm" src="https://github.com/user-attachments/assets/b732286e-0752-4d1d-9a49-c8fb36160cc3" />
+<img width="1082" height="741" alt="Screenshot 2026-06-20 at 7 29 19 pm" src="https://github.com/user-attachments/assets/42675b54-4750-4153-82db-e5c5054b360d" />
+<img width="1032" height="1239" alt="Screenshot 2026-06-20 at 7 29 53 pm" src="https://github.com/user-attachments/assets/8920b4bd-a82e-46c4-91f8-6d4112d9dfdb" />
 
 ## Bottom
 Highlighted or Orange are the Spacers and Battery Lid
-<img width="1081" height="719" alt="Screenshot 2026-06-20 at 7 05 16 pm" src="https://github.com/user-attachments/assets/fae6dcb4-76ef-400b-9542-716c5af9f3f1" />
-<img width="927" height="1215" alt="Screenshot 2026-06-20 at 7 05 47 pm" src="https://github.com/user-attachments/assets/d3633d40-2fbc-4f5b-988d-235549a8cb9a" />
+<img width="1059" height="668" alt="Screenshot 2026-06-20 at 7 28 45 pm" src="https://github.com/user-attachments/assets/f2d2a13f-2694-471b-8e28-c6a6e22783a7" />
+<img width="957" height="1228" alt="Screenshot 2026-06-20 at 7 28 08 pm" src="https://github.com/user-attachments/assets/2110b6fb-1b31-4e26-af6d-18c35700c7a9" />
 
 # BOM
 | No. | Item | Description | LCSC/JLCPCB Supplier Number | Qty | Unit Price | Total Price | Running Total | Link |
