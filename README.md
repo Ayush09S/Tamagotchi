@@ -1,6 +1,9 @@
 # Overview
 ## Context
-A small digital pet as a physical device remake! It features an LDR that can detect light changes, four buttons, and a buzzer. It also has an OLED display and can be recharged.! It was created as an entry to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. It can also be used with both smaller LiPo batteries and medium sized ones too!
+A small digital pet as a physical device remake! It features four buttons and a buzzer. It also has an OLED display and can be recharged! The coding is made so that it can show it's emotions based on how it's treated. Whether it's not played with, It was created as an entry to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. It can also be used with both smaller LiPo batteries and medium sized ones too!
+
+## Zine
+<img width="539" height="827" alt="Tamagotchi Zine" src="https://github.com/user-attachments/assets/9c71413b-636d-4bb1-a0b6-0be46c33ab1f" />
 
 # Specs
 - 4 Push Buttons
