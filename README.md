@@ -81,13 +81,13 @@ Highlighted or Orange are the Spacers and Battery Lid
 | 2 | Screws | M3x30mm | - | 10 | $0.13 | $1.33 | $1,100.33 | [Makerstore Link](https://www.makerstore.com.au/product/m3-button-head-screws-10-pack/) |
 | 3 | Nuts | M3 | - | 4 | $0.14 | $0.56 | $1,100.89 | [Makerstore Link](https://www.makerstore.com.au/product/hard-m3nut-1/) |
 | 4 | Battery | LiPo Rechargeable 1100mAh | - | 1 | $5.39 | $5.39 | $1,106.28 | [Aliexpress](https://www.aliexpress.com/item/1005004824764461.html) |
-| 5 | PCB (with assembly) | Main board that connects components and holds main chip | - | 1 | $23.59 | $23.59 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/) |
+| 5 | PCB (with assembly) | Main board that connects components and holds main chip | - | 1 | $23.77 | $23.59 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/) |
 | 5.1 | Buzzer | BUZ-TH_BD12.5-P6.50-D1.4 | C49246964 | 1 | $0.01 | $0.01 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/XHXDZ-1207_P65MM/C49246964) |
 | 5.2 | Push Buttons | SW-TH_4P-L4.5-W4.5-P3.00-LS4.8 | C2888493 | 4 | $0.01 | $0.04 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/BZCN-TSC016A04518A/C2888493) |
 | 5.3 | Latching Button | SW-TH_TK-6580A-1 | C528770 | 1 | $0.23 | $0.23 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/Yuandi-TK_6580A1/C528770) |
 | 5.4 | OLED Screen | OLED-TH_L27.8-W27.2-P2.54_C9900033791 | C5248080 | 1 | $2.27 | $2.27 | $1,129.87 | [JLCPCB Link](https://jlcpcb.com/partdetail/HS-HS96L03W2C03/C5248080) |
 | 5.5 | Microcontroller | XIAO-ESP32-C3-DIP-SMD | - | 1 | $6.55 | $6.55 | $1,129.87 | [Seeed Studio Link](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| 5.6 | Additionals | - | - | - | - | $14.49 | $1,129.87 | - |
+| 5.6 | Additionals | - | - | - | - | $14.67 | $1,129.87 | - |
 
 # Additional Notes!
 This was a Guided Project through Hack Club's Fallout's Docs. I really loved making it, and I really learnt a lot, just like with the USB Hub. If you are a beginner, I would suggest starting with a smaller project, but this project is INCREDIBLE as a second one! If you've got some experience programming, you'll definitely find this manageable to create.
