@@ -49,6 +49,8 @@ It was created as an entry to contribute to the Fallout Hackathon in Shenzhen ru
   -   Adafruit SSD1306 (by Adafruit)
   -   Adafruit GFX Library (by Adafruit), which will be prompted as a dependency.
 
+  - Upload the code!
+
 6. Done! Use the Tamagotchi as much as your heart desires!
 
 # PCB
