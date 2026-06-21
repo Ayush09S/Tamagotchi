@@ -2,7 +2,7 @@
 A small digital pet as a physical device remake! It features four buttons and a buzzer. It also has an OLED display and can be recharged! The coding is made so that it can show it's emotions based on how it's treated. Whether it's not played with, not given sleep, it'll react. Make sure to keep it entertained! It also can be powered off into deep sleep in case you are busy and need to temporarily turn it off.
 
 ## Context
-It was created as an entry to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. It can also be used with both smaller LiPo batteries and medium sized ones too! It took 35+ hours to complete. I was really glad the coding was not crazy complicated!
+It was created as an entry to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. It can also be used with both smaller LiPo batteries and medium sized ones too! It took 40+ hours to complete. I was really glad the coding was not crazy complicated!
 
 ## Zine
 <img width="539" height="827" alt="Tamagotchi Zine" src="https://github.com/user-attachments/assets/9c71413b-636d-4bb1-a0b6-0be46c33ab1f" />
@@ -62,7 +62,7 @@ It was created as an entry to contribute to the Fallout Hackathon in Shenzhen ru
 <img width="1523" height="1046" alt="Screenshot 2026-06-22 at 5 36 53 am" src="https://github.com/user-attachments/assets/51373373-ee5f-4509-b84b-8f4f3d6e3525" />
 
 # Casing
-Onshape Link (Do not click, copy and paste it): https://cad.onshape.com/documents/55ba759bd32af63245a8fd64/w/0539768004f2bf5a541f17f4/e/c03fca18856a8a03d68f317d?renderMode=0&uiState=6a3838eea6672b7ea1a096e4
+Onshape Link (Do not click, copy and paste it): https://cad.onshape.com/documents/55ba759bd32af63245a8fd64/w/0539768004f2bf5a541f17f4/e/c03fca18856a8a03d68f317d?renderMode=0&uiState=6a38532017fe1dd1d0fb8e74
 ## Full
 <img width="1226" height="892" alt="Screenshot 2026-06-22 at 6 36 05 am" src="https://github.com/user-attachments/assets/6ef150cb-13d6-4fd8-9544-53d81032cee6" />
 
