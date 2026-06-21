@@ -1,0 +1,21 @@
+No.,Item,Description,LCSC Supplier Number (if applicable),Qty Req,Qty Must Buy,Unit Price,Total Price,Running Total,Link
+1,3D Print Filament,Elegoo PLA 1kg,,1,1,$19.95,$19.95,$19.95,https://www.jaycar.com.au/elegoo-pla-filament-brown-1-75mm-1kg/p/TL6415?srsltid=AfmBOorWonBfeYknAu3rB8aZ4PWmGkUiC_A2ZqcdQLrUnSMhugl3tplenB0
+,Shipping,Jaycar,,,,,$9.95,$29.90,
+2,Screws,M3x30mm,,4,10,$0.13,$1.33,$31.23,https://www.makerstore.com.au/product/m3-button-head-screws-10-pack/?attribute_pa_length=30mm&gad_source=1&gad_campaignid=17182175902&gbraid=0AAAAADlKCoO41i4UW2q_vBL5fa-YCVeUE&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTq34nfkNcCYdwuQxhlO7KVYuQOjBWP2bP-eB9npmySPHkssN7rTvphoChtkQAvD_BwE
+3,Nuts,M3,,4,4,$0.14,$0.56,$31.79,https://www.makerstore.com.au/product/hard-m3nut-1/?gad_source=1&gad_campaignid=17182175902&gbraid=0AAAAADlKCoO41i4UW2q_vBL5fa-YCVeUE&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTrelUUspWVwynp_Yrg5-H1qjSB5JMoOdUoEGIBlk2bIIMUZF2I_HQxoCLH4QAvD_BwE
+,Shipping,Makerstore,,,,,$7.50,$39.29,
+4,Battery ,LiPo Rechargeable 1100mAh,,1,1,$5.39,$5.39,$44.68,https://www.aliexpress.com/item/1005004824764461.html?src=google&src=google&albch=shopping&acnt=742-864-1166&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005004824764461&ds_e_product_merchant_id=101188790&ds_e_product_country=AU&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=21819463808&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=21819486122&gbraid=0AAAAA99aYpemWq6wRYbZ4iRr7fSZWOlsi&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTuU6XAWeZ3Sbwx140fsltYGE2tlytzKPM_RCD3M4D4ZwK8VsdYguBhoC5kYQAvD_BwE
+,Shipping,Aliexpress,,,,,$6.30,$50.98,
+5,7 Pin Headers,Male - 2.54mm Pitch,C6332200,2,20,$0.04,$0.72,$51.70,https://www.lcsc.com/product-detail/C6332200.html
+,4 Pin Header,Male - 2.54mm Pitch,C5116483,1,20,$0.03,$0.64,$52.34,https://www.lcsc.com/product-detail/Pin-Headers_ZHOURI-2-54-1-4_C5116483.html
+6,Buzzer,BUZ-TH_BD12.5-P6.50-D1.4,C49246964,1,10,$0.08,$0.82,$53.16,https://www.lcsc.com/product-detail/C49246964.html
+7,Push Buttons,SW-TH_4P-L4.5-W4.5-P3.00-LS4.8,C2888493,4,50,$0.02,$0.75,$53.91,https://www.lcsc.com/product-image/C2888493.html
+8,Latching Button,SW-TH_TK-6580A-1,C528770,1,1,$0.31,$0.31,$54.22,https://www.lcsc.com/product-detail/C528770.html
+9,OLED Screen,OLED-TH_L27.8-W27.2-P2.54_C9900033791,C5248080,1,1,$3.20,$3.20,$57.42,https://www.lcsc.com/product-detail/C5248080.html
+,Shipping,LCSC,,,,,$9.10,$66.52,
+,Handling,LCSC,,,,,$4.28,$70.80,
+10,Microcontroller,XIAO-ESP32-C3-DIP-SMD,,1,1,$6.55,$6.55,$77.35,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+,Shipping,Seeed Studio,,,,,$7.05,$84.40,
+11,PCB (without assembly),Main board (Lead-Free Finish). Components to be soldered.,,1,5,$1.51,$7.56,$91.96,https://jlcpcb.com/
+11.2,Additionals + Shipping,JLCPCB,,,,,$2.14,$94.10,
+,Grand Total,,,,,,,$94.10,
