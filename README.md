@@ -14,9 +14,8 @@ It was created as an entry to contribute to the Fallout Hackathon in Shenzhen ru
 
 # How To Create
 1. Create the PCB
-  - Either cut the PCB (with the Gerber file) and solder bought components needed (found in the BOM)
-    OR
-  - Buy the PCB from JLCPCB
+  - Cut the PCB (with the Gerber file) through JLCPCB or a CNC machine and solder bought components needed (found in the BOM)
+  - Use the provided files to solder header pins and components in the right places (Onshape link is a good one)
 
 2. Print the models
   - Print the Casing, spacers and battery holder lid with the 3D Files provided on a 3D Printer (Note, the casing top, casing bottom, spacers and battery holder lid should all be printed seperately)
@@ -25,7 +24,7 @@ It was created as an entry to contribute to the Fallout Hackathon in Shenzhen ru
 
 3. Put it together
   - Put a bought or owned LiPo Battery and connect it to the bottom of the pcb, and place it into the allocated space in the casing
-  - Use M3 Screws (buy or use owned ones) to screw the casing and PCB together
+  - Use M3 Screws and nuts (buy or use owned ones) to screw the casing and PCB together
 
 5. Program the PCB. (Sourced from [Tamagotchi Firmware Tutorial](https://fallout.hackclub.com/docs/guided-projects/tamagotchi-firmware#step-1-install-the-esp32-board-package))
   - Connect to the Tamagotchi's USB-C connector through a computer and apply the program provided through the Arduino IDE.
@@ -63,32 +62,39 @@ It was created as an entry to contribute to the Fallout Hackathon in Shenzhen ru
 # Casing
 Onshape Link (Do not click, copy and paste it): https://cad.onshape.com/documents/55ba759bd32af63245a8fd64/w/0539768004f2bf5a541f17f4/e/c03fca18856a8a03d68f317d?renderMode=0&uiState=6a3838eea6672b7ea1a096e4
 ## Full
-<img width="909" height="1130" alt="Screenshot 2026-06-22 at 5 52 57 am" src="https://github.com/user-attachments/assets/43629c10-62b1-4305-9e82-56be6c0b073a" />
+<img width="1226" height="892" alt="Screenshot 2026-06-22 at 6 36 05 am" src="https://github.com/user-attachments/assets/6ef150cb-13d6-4fd8-9544-53d81032cee6" />
 
 ## Top
-<img width="1082" height="741" alt="Screenshot 2026-06-20 at 7 29 19 pm" src="https://github.com/user-attachments/assets/42675b54-4750-4153-82db-e5c5054b360d" />
-<img width="1032" height="1239" alt="Screenshot 2026-06-20 at 7 29 53 pm" src="https://github.com/user-attachments/assets/8920b4bd-a82e-46c4-91f8-6d4112d9dfdb" />
+<img width="1141" height="760" alt="Screenshot 2026-06-22 at 6 36 43 am" src="https://github.com/user-attachments/assets/26690f14-068f-4b1d-b647-fa734ad51567" />
+<img width="986" height="1219" alt="Screenshot 2026-06-22 at 6 37 21 am" src="https://github.com/user-attachments/assets/aa66d517-8494-4610-9012-31d1ae37da91" />
 
 ## Bottom
-Highlighted or Orange are the Spacers and Battery Lid
-<img width="1059" height="668" alt="Screenshot 2026-06-20 at 7 28 45 pm" src="https://github.com/user-attachments/assets/f2d2a13f-2694-471b-8e28-c6a6e22783a7" />
-<img width="957" height="1228" alt="Screenshot 2026-06-20 at 7 28 08 pm" src="https://github.com/user-attachments/assets/2110b6fb-1b31-4e26-af6d-18c35700c7a9" />
+<img width="1267" height="791" alt="Screenshot 2026-06-22 at 6 38 14 am" src="https://github.com/user-attachments/assets/2311200f-1ae8-41cd-bfc1-3e3b898cf1ad" />
+<img width="975" height="1213" alt="Screenshot 2026-06-22 at 6 38 38 am" src="https://github.com/user-attachments/assets/75257ca2-1481-414a-9a9d-e3b584d77b77" />
 
 # BOM (AUD)
-| No. | Item | Description | LCSC/JLCPCB Supplier Number (if applicable) | Qty | Unit Price | Total Price | Running Total | Link |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 3D Print Filament | Elegoo PLA 1kg | | 1 | $19.95 | $19.95 | $19.95 | [Jaycar Link](https://www.jaycar.com.au/elegoo-pla-filament-brown-1-75mm-1kg/p/TL6415?srsltid=AfmBOorWonBfeYknAu3rB8aZ4PWmGkUiC_A2ZqcdQLrUnSMhugl3tplenB0) |
-| 2 | Screws | M3x30mm | | 10 | $0.13 | $1.33 | $21.28 | [Makerstore Link](https://www.makerstore.com.au/product/m3-button-head-screws-10-pack/?attribute_pa_length=30mm&gad_source=1&gad_campaignid=17182175902&gbraid=0AAAAADlKCoO41i4UW2q_vBL5fa-YCVeUE&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTq34nfkNcCYdwuQxhlO7KVYuQOjBWP2bP-eB9npmySPHkssN7rTvphoChtkQAvD_BwE) |
-| 3 | Nuts | M3 | | 4 | $0.14 | $0.56 | $21.84 | [Makerstore Link](https://www.makerstore.com.au/product/hard-m3nut-1/?gad_source=1&gad_campaignid=17182175902&gbraid=0AAAAADlKCoO41i4UW2q_vBL5fa-YCVeUE&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTrelUUspWVwynp_Yrg5-H1qjSB5JMoOdUoEGIBlk2bIIMUZF2I_HQxoCLH4QAvD_BwE) |
-| 4 | Battery | LiPo Rechargeable 1100mAh | | 1 | $5.39 | $5.39 | $27.23 | [Aliexpress Link](https://www.aliexpress.com/item/1005004824764461.html?src=google&src=google&albch=shopping&acnt=742-864-1166&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005004824764461&ds_e_product_merchant_id=101188790&ds_e_product_country=AU&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=21819463808&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=21819486122&gbraid=0AAAAA99aYpemWq6wRYbZ4iRr7fSZWOlsi&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTuU6XAWeZ3Sbwx140fsltYGE2tlytzKPM_RCD3M4D4ZwK8VsdYguBhoC5kYQAvD_BwE) |
-| 5 | PCB (with assembly) | Main board that connects components and holds main chip | | 1 | $23.77 | $23.77 | $51.00 | [JLCPCB Link](https://jlcpcb.com/) |
-| 5.1 | Buzzer | BUZ-TH_BD12.5-P6.50-D1.4 | C49246964 | 1 | $0.01 | $0.01 | $51.00 | [JLCPCB Link](https://jlcpcb.com/partdetail/XHXDZ-1207_P65MM/C49246964) |
-| 5.2 | Push Buttons | SW-TH_4P-L4.5-W4.5-P3.00-LS4.8 | C2888493 | 4 | $0.01 | $0.04 | $51.00 | [JLCPCB Link](https://jlcpcb.com/partdetail/BZCN-TSC016A04518A/C2888493) |
-| 5.3 | Latching Button | SW-TH_TK-6580A-1 | C528770 | 1 | $0.23 | $0.23 | $51.00 | [JLCPCB Link](https://jlcpcb.com/partdetail/Yuandi-TK_6580A1/C528770) |
-| 5.4 | OLED Screen | OLED-TH_L27.8-W27.2-P2.54_C9900033791 | C5248080 | 1 | $2.27 | $2.27 | $51.00 | [JLCPCB Link](https://jlcpcb.com/partdetail/HS-HS96L03W2C03/C5248080) |
-| 5.5 | Microcontroller | XIAO-ESP32-C3-DIP-SMD | | 1 | $6.55 | $6.55 | $51.00 | [Seeed Studio Link](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| 5.6 | Additionals | | | | | $14.67 | $51.00 | |
-
+| No. | Item | Description | LCSC Supplier Number | Qty Req | Qty Must Buy | Unit Price | Total Price | Running Total | Link |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1 | 3D Print Filament | Elegoo PLA 1kg | | 1 | 1 | $19.95 | $19.95 | $19.95 | [Jaycar Link](https://www.jaycar.com.au/elegoo-pla-filament-brown-1-75mm-1kg/p/TL6415?srsltid=AfmBOorWonBfeYknAu3rB8aZ4PWmGkUiC_A2ZqcdQLrUnSMhugl3tplenB0) |
+| | *Shipping* | Jaycar | | | | | $9.95 | $29.90 | |
+| 2 | Screws | M3x30mm | | 4 | 10 | $0.13 | $1.33 | $31.23 | [Makerstore Link](https://www.makerstore.com.au/product/m3-button-head-screws-10-pack/?attribute_pa_length=30mm) |
+| 3 | Nuts | M3 | | 4 | 4 | $0.14 | $0.56 | $31.79 | [Makerstore Link](https://www.makerstore.com.au/product/hard-m3nut-1/) |
+| | *Shipping* | Makerstore | | | | | $7.50 | $39.29 | |
+| 4 | Battery | LiPo Rechargeable 1100mAh | | 1 | 1 | $5.39 | $5.39 | $44.68 | [AliExpress Link](https://www.aliexpress.com/item/1005004824764461.html) |
+| | *Shipping* | Aliexpress | | | | | $6.30 | $50.98 | |
+| 5 | 7 Pin Headers | Male - 2.54mm Pitch | C6332200 | 2 | 20 | $0.04 | $0.72 | $51.70 | [LCSC Link](https://www.lcsc.com/product-detail/C6332200.html) |
+| | 4 Pin Header | Male - 2.54mm Pitch | C5116483 | 1 | 20 | $0.03 | $0.64 | $52.34 | [LCSC Link](https://www.lcsc.com/product-detail/Pin-Headers_ZHOURI-2-54-1-4_C5116483.html) |
+| 6 | Buzzer | BUZ-TH_BD12.5-P6.50-D1.4 | C49246964 | 1 | 10 | $0.08 | $0.82 | $53.16 | [LCSC Link](https://www.lcsc.com/product-detail/C49246964.html) |
+| 7 | Push Buttons | SW-TH_4P-L4.5-W4.5-P3.00-LS4.8 | C2888493 | 4 | 50 | $0.02 | $0.75 | $53.91 | [LCSC Link](https://www.lcsc.com/product-image/C2888493.html) |
+| 8 | Latching Button | SW-TH_TK-6580A-1 | C528770 | 1 | 1 | $0.31 | $0.31 | $54.22 | [LCSC Link](https://www.lcsc.com/product-detail/C528770.html) |
+| 9 | OLED Screen | OLED-TH_L27.8-W27.2-P2.54_C9900033791 | C5248080 | 1 | 1 | $3.20 | $3.20 | $57.42 | [LCSC Link](https://www.lcsc.com/product-detail/C5248080.html) |
+| | *Shipping* | LCSC | | | | | $9.10 | $66.52 | |
+| | *Handling* | LCSC | | | | | $4.28 | $70.80 | |
+| 10 | Microcontroller | XIAO-ESP32-C3-DIP-SMD | | 1 | 1 | $6.55 | $6.55 | $77.35 | [Seeed Studio Link](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
+| | *Shipping* | Seeed Studio | | | | | $7.05 | $84.40 | |
+| 11 | PCB (without assembly) | Main board (Lead-Free Finish). Components to be soldered. | | 1 | 5 | $1.51 | $7.56 | $91.96 | [JLCPCB Link](https://jlcpcb.com/) |
+| 11.2 | Additionals + Shipping | JLCPCB | | | | | $2.14 | $94.10 | |
+| **-** | **Grand Total** | | | | | | | **$94.10** | |
 # Additional Notes!
 This was a Guided Project through Hack Club's Fallout's Docs. I really loved making it, and I really learnt a lot, just like with the USB Hub. If you are a beginner, I would suggest starting with a smaller project, but this project is INCREDIBLE as a second one! If you've got some experience programming, you'll definitely find this manageable to create.
 
