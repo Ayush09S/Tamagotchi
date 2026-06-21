@@ -54,16 +54,16 @@ It was created as an entry to contribute to the Fallout Hackathon in Shenzhen ru
 
 # PCB
 ## Board
-<img width="992" height="1226" alt="Screenshot 2026-06-20 at 6 42 23 pm" src="https://github.com/user-attachments/assets/775d8cd5-e370-4427-8854-f3a2328bec93" />
-<img width="941" height="1160" alt="Screenshot 2026-06-20 at 6 43 25 pm" src="https://github.com/user-attachments/assets/13bb5763-25d0-42aa-bde6-300d23c9eaa3" />
+<img width="948" height="1146" alt="Screenshot 2026-06-22 at 5 34 54 am" src="https://github.com/user-attachments/assets/3b98b6c3-095e-400b-8093-48e99dd624e3" />
+<img width="1125" height="1281" alt="Screenshot 2026-06-22 at 5 36 25 am" src="https://github.com/user-attachments/assets/0554ccc6-8fd5-49fe-a2b2-79fb80542644" />
 
 ## Schematic
-<img width="1531" height="1049" alt="Screenshot 2026-06-19 at 8 36 59 pm" src="https://github.com/user-attachments/assets/c319da14-c750-45f8-966b-430dcc960938" />
+<img width="1523" height="1046" alt="Screenshot 2026-06-22 at 5 36 53 am" src="https://github.com/user-attachments/assets/51373373-ee5f-4509-b84b-8f4f3d6e3525" />
 
 # Casing
 Onshape Link (Do not click, copy and paste it): https://cad.onshape.com/documents/55ba759bd32af63245a8fd64/w/0539768004f2bf5a541f17f4/e/c03fca18856a8a03d68f317d?renderMode=0&uiState=6a3838eea6672b7ea1a096e4
 ## Full
-<img width="1105" height="765" alt="Screenshot 2026-06-20 at 7 03 44 pm" src="https://github.com/user-attachments/assets/ddc17138-f293-49e2-90bf-794101717508" />
+<img width="909" height="1130" alt="Screenshot 2026-06-22 at 5 52 57 am" src="https://github.com/user-attachments/assets/43629c10-62b1-4305-9e82-56be6c0b073a" />
 
 ## Top
 <img width="1082" height="741" alt="Screenshot 2026-06-20 at 7 29 19 pm" src="https://github.com/user-attachments/assets/42675b54-4750-4153-82db-e5c5054b360d" />
