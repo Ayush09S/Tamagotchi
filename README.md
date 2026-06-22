@@ -2,7 +2,7 @@
 A small digital pet as a physical device remake! It features four buttons and a buzzer. It also has an OLED display and can be recharged! The coding is made so that it can show it's emotions based on how it's treated. Whether it's not played with, not given sleep, it'll react. Make sure to keep it entertained! It also can be powered off into deep sleep in case you are busy and need to temporarily turn it off.
 
 ## Context
-It was created as an entry to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. It can also be used with both smaller LiPo batteries and medium sized ones too! It took 40+ hours to complete. I was really glad the coding was not crazy complicated!
+It was created as an entry to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. I really liked the idea of a small, hand-held device that you can carry with you, and the idea of a tamagotchi is pretty sweet! It can also be used with both smaller LiPo batteries and medium sized ones too! It took 40+ hours to complete. I was really glad the coding was not crazy complicated!
 
 ## Zine
 <img width="539" height="827" alt="Tamagotchi Zine" src="https://github.com/user-attachments/assets/9c71413b-636d-4bb1-a0b6-0be46c33ab1f" />
@@ -103,4 +103,4 @@ This was a Guided Project through Hack Club's Fallout's Docs. I really loved mak
 WARNING - PRODUCTION FILES
 The gerber is provided for the JLCPCB or any PCB cutting, but the BOM and CPL may not work properly when ordered, since the pins will not be assembled. This project is designed to have been soldered yourself, if you wish to alter it so that it can be ordered, you may do that but this project does not work in that way. YOU HAVE BEEN WARNED.
 
-Sanity Checked by Kade Harrison
+Sanity Checked by Kade Harrison and Revant Pandey
