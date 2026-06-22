@@ -53,6 +53,9 @@ It was created as an entry to contribute to the Fallout Hackathon in Shenzhen ru
 
 6. Done! Use the Tamagotchi as much as your heart desires!
 
+# Full Design
+<img width="797" height="997" alt="Screenshot 2026-06-22 at 4 22 56 pm" src="https://github.com/user-attachments/assets/e80ab6e9-9c46-4725-8dba-c91a67097b30" />
+
 # PCB
 ## Board
 <img width="948" height="1146" alt="Screenshot 2026-06-22 at 5 34 54 am" src="https://github.com/user-attachments/assets/3b98b6c3-095e-400b-8093-48e99dd624e3" />
