@@ -55,6 +55,9 @@ It was created as an entry to contribute to the Fallout Hackathon in Shenzhen ru
 
 # Full Design
 <img width="797" height="997" alt="Screenshot 2026-06-22 at 4 22 56 pm" src="https://github.com/user-attachments/assets/e80ab6e9-9c46-4725-8dba-c91a67097b30" />
+<img width="1368" height="815" alt="Screenshot 2026-06-22 at 4 29 29 pm" src="https://github.com/user-attachments/assets/cd8ccaa6-319c-4b8b-9a7d-f8631b12904b" />
+<img width="956" height="988" alt="Screenshot 2026-06-22 at 4 30 03 pm" src="https://github.com/user-attachments/assets/16452ad7-d4a6-4510-b026-165490db6326" />
+<img width="1210" height="1125" alt="Screenshot 2026-06-22 at 4 30 32 pm" src="https://github.com/user-attachments/assets/2f0b1a24-b9e2-40ba-b730-4949e6b02f63" />
 
 # PCB
 ## Board
