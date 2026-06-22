@@ -98,7 +98,7 @@ Onshape Link (Do not click, copy and paste it): https://cad.onshape.com/document
 | 11.2 | Additionals + Shipping | JLCPCB | | | | | $2.14 | $94.10 | |
 | **-** | **Grand Total** | | | | | | | **$94.10** | |
 # Additional Notes!
-This was a Guided Project through Hack Club's Fallout's Docs. I really loved making it, and I really learnt a lot, just like with the USB Hub. If you are a beginner, I would suggest starting with a smaller project, but this project is INCREDIBLE as a second one! If you've got some experience programming, you'll definitely find this manageable to create.
+This was a Guided Project through Hack Club's Fallout's Docs. The github page of the tutorial is here https://github.com/TaniWanKenobi/tamagotchi. I really loved making it, and I really learnt a lot, just like with the USB Hub. If you are a beginner, I would suggest starting with a smaller project, but this project is INCREDIBLE as a second one! If you've got some experience programming, you'll definitely find this manageable to create.
 
 WARNING - PRODUCTION FILES
 The gerber is provided for the JLCPCB or any PCB cutting, but the BOM and CPL may not work properly when ordered, since the pins will not be assembled. This project is designed to have been soldered yourself, if you wish to alter it so that it can be ordered, you may do that but this project does not work in that way. YOU HAVE BEEN WARNED.
