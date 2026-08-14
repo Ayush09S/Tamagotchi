@@ -5,7 +5,7 @@ A small digital pet as a physical device remake! It features four buttons and a 
 It was created as an entry to contribute to the Fallout Hackathon in Shenzhen run by Hack Club! It was quite involved, requiring the research of components, importing the EasyEda JLCPCB library of components library into Kicad, and properly understanding how to make a schematic and routing a PCB. I really liked the idea of a small, hand-held device that you can carry with you, and the idea of a tamagotchi is pretty sweet! It can also be used with both smaller LiPo batteries and medium sized ones too! It took 40+ hours to complete. I was really glad the coding was not crazy complicated!
 
 ## Zine
-<img width="539" height="827" alt="Copy of Tamagotchi-Zine" src="https://github.com/user-attachments/assets/d5761829-c0cb-4597-b2ad-ebf14daf4c5b" />
+<img width="539" height="827" alt="IRL-Tamagotchi-Zine" src="https://github.com/user-attachments/assets/7388820a-cf56-4e13-9a26-2f4365913f71" />
 
 # Specs
 - 4 Push Buttons
