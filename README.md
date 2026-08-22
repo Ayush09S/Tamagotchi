@@ -80,6 +80,9 @@ Onshape Link (Do not click, copy and paste it): https://cad.onshape.com/document
 <img width="1267" height="791" alt="Screenshot 2026-06-22 at 6 38 14 am" src="https://github.com/user-attachments/assets/2311200f-1ae8-41cd-bfc1-3e3b898cf1ad" />
 <img width="975" height="1213" alt="Screenshot 2026-06-22 at 6 38 38 am" src="https://github.com/user-attachments/assets/75257ca2-1481-414a-9a9d-e3b584d77b77" />
 
+## Built
+<img width="3072" height="4096" alt="Built_Tamagotchi" src="https://github.com/user-attachments/assets/e9a3fed6-c1e9-4b89-b94d-79bc8f522691" />
+
 # BOM (AUD)
 | No. | Item | Description | LCSC Supplier Number | Qty Req | Qty Must Buy | Unit Price | Total Price | Running Total | Link |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
